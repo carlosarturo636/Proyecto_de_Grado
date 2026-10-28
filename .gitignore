@@ -1,0 +1,31 @@
+# Datos: no se suben (volumen y datos personales)
+01_CRUDOS/
+02_DEPURADOS/
+03_MODELADO/
+_DESCARTADOS/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+
+# Documentos de referencia (artículos y libros con derechos de autor): no se suben
+DOCUMENTOS-PROYECTO-GRADO-main/
+*.zip
+*.pdf
+
+# Credenciales de la API: nunca se suben
+credenciales_api.py
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
+~$*
+
+VERIFICACION_MODELOS/
