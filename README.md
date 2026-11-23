@@ -17,7 +17,7 @@ Comparar modelos de aprendizaje supervisado (Regresión Logística, Random Fores
 │   ├── 2_consolidacion/            Un archivo depurado por fuente (→ 02_DEPURADOS)
 │   ├── 3_modelado/                 Tabla de modelado, calidad, proxy, modelos, SHAP y priorización (→ 03_MODELADO)
 │   └── verificar_reproducibilidad.py   Ejecuta todo de nuevo en una carpeta aparte y compara los resultados
-├── anexos/                        Anexos A y B del documento (uno por carpeta)
+├── anexos/                        Anexos A a F del documento (uno por carpeta)
 ├── INVENTARIO_DATOS.md             Qué contiene cada archivo de datos y qué periodo aporta
 ├── requirements.txt                Versiones exactas de las librerías
 └── README.md
